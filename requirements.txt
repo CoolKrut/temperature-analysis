@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+streamlit
+matplotlib
+seaborn
+joblib
+aiohttp
